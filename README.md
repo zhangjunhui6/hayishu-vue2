@@ -1,4 +1,4 @@
-# hayishu_vue
+# hayishu_vue2
 
 > A Vue.js project to realize the function of second-hand book trading on campus.
 
